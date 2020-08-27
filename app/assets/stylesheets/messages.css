@@ -87,12 +87,13 @@
   height: calc(100vh - 190px);
   background-color: #FAFAFA;
   padding: 46px 40px 0;
-  overfow: scroll;
+  overflow: scroll;
 }
 
 .message {
   margin: 10px 0;
   /* padding: 10px 0; */
+  /* overflow: scroll; */
 }
 
 .upper-message{
